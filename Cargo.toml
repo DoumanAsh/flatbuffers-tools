@@ -1,0 +1,16 @@
+[package]
+name = "flatbuffers-tools"
+version = "0.1.0"
+edition = "2018"
+authors = ["Douman <douman@gmx.se>"]
+repository = "https://github.com/DoumanAsh/flatbuffers-tools"
+license = "BSL-1.0"
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+    "README.md"
+]
+description = "Flatbuffers utilities to simplify work with it"
+keywords = [
+	"flatbuffers"
+]
